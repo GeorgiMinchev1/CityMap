@@ -1,0 +1,8 @@
+﻿  city.cpp
+C:\Users\Georgi Minchev\Desktop\CityMap\CityMap\city.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Georgi Minchev\Desktop\CityMap\CityMap\city.cpp(167,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Georgi Minchev\Desktop\CityMap\CityMap\city.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Georgi Minchev\Desktop\CityMap\CityMap\city.cpp(210,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Georgi Minchev\Desktop\CityMap\CityMap\city.cpp(414,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Georgi Minchev\Desktop\CityMap\CityMap\city.cpp(574,27): warning C4018: '<': signed/unsigned mismatch
+  CityMap.vcxproj -> C:\Users\Georgi Minchev\Desktop\CityMap\Debug\CityMap.exe

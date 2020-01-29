@@ -1,0 +1,3 @@
+NDK Popa 150 5Kiosheta 800
+Popa NDK 400 5Kiosheta 800
+5Kiosheta Popa 400 NDK 450 Dead 500
